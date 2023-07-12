@@ -1,3 +1,6 @@
-Student loan calculator
+Undergraduate Student Loan Calculator
 
-loan_calculator.py write results to results.txt
+1. Create new folder
+2. Download undergrad_loan_calc.py and results.txt to new folder
+3. Run undergrad_loan_calc.py
+4. Calculations written into results.txt
