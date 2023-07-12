@@ -1,6 +1,3 @@
-#Coded by Evan Kale and Ben Onderick
-
-
 print("Undergraduate Student Loan App ~ Enter loan information.")
 
 # Loan Limit Lists
